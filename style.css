@@ -11,3 +11,19 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
+#nameandaccuracy {
+    background: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    width: 75%;
+    height: 20%;
+    border-radius: 20%;
+    margin-top: 400px;
+}
+canvas {
+    margin-top: 50px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+}
